@@ -1,0 +1,3 @@
+- name: fabric - install
+  sudo: yes
+  pip: name=fabric
